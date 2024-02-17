@@ -583,6 +583,11 @@ footer p {
 		margin-top: 2rem;
 	}
 
+	.contact,
+	.services {
+		padding: 5rem 1rem;
+	}
+
 	footer {
 		text-align: center;
 	}
